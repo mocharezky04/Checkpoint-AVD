@@ -1,2 +1,2 @@
-# Checkpoint-1 AVD
+# Checkpoint AVD
 ## Nothing to see here
